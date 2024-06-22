@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @wideeyedog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 [Uploading server.cfg…](#--------------------------------#
 # https://discord.gg/E3wheBM5fZ ---#
 #--------------------------------#
@@ -196,7 +190,3 @@ ensure pma-voice
 ensure [mapping]
 add_ace resource.nova_adminmenu command allow)
 
-<!---
-wideeyedog/wideeyedog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
